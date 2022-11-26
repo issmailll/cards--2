@@ -1,0 +1,29 @@
+.images{
+    padding-top: 100px;
+    padding-bottom: 98px;
+}
+.images__title__wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 24px;
+}
+.images__title{
+    margin-bottom: 8px;
+    color: #212121;
+}
+.images__title-description{
+    color: #949494;
+}
+.images__title-location{
+    color: #949494;
+}
+.images__list{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.images__list-item{
+    max-width: 381px;
+}
